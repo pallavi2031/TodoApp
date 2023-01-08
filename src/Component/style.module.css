@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.element{
+   justify-content: center;
+   width: 100%;
+    text-align: center;
+  
+   
+  
+    }
+.header{
+    background: rgb(13, 36, 106);
+    color:white ;
+    width: 100%;
+    padding: 1.5em;
+    text-align: center;
+    font-size: 1.5em;
+  
+}
+.inputs{
+    width: 100%;
+    padding: 1.1em;
+    margin: 10px;
+    font-size: 1.5em;
+   text-align: center;
+   /*border: none;
+   border-bottom: 1px solid whitesmoke;*/
+   height: 50px;
+  
+  
+}
+.buttons{
+    background: tomato;
+    width: 10%;
+    color: white;
+  font-size: 1.5em;
+  padding: 3px;
+  height: 50px;
+  border-radius: 7px;
+
+}
+.list{
+    font-size: 1.7em;
+}
+.btn{
+    padding: 10px;
+    margin-left:1em ;
+    font-size: 1em;
+    height: 50%;
+    color: white;
+    border: none;
+    background: green;
+    border-radius: 5px;
+    width: 100px;
+
+}
+.todoitem{
+    margin-left: 10px;
+    font-size: 1.5em;
+}
